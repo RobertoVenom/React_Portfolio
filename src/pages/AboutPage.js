@@ -4,6 +4,7 @@ const AboutPage = () => {
   return (
     <div className="about-container">
       <h2>About Me</h2>
+      <img src="https://robertovenom.github.io/React_Portfolio/src/asset/profile.jpg" alt="profile">
       <p>I am Lego builder and future designer.</p>
       <h3>Skills</h3>
       <ul>
