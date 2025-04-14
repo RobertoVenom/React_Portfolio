@@ -5,10 +5,10 @@ import ProjectCard from '../components/ProjectCard';
 const ProjectsPage = () => {
   const projects = [
     {
-      name: 'Project 1',
+      name: 'Self Portrait',
       description: 'A web app built with React.',
-      link: 'https://github.com/user/project1',
-      image: '/images/project1.jpg',
+      link: 'https://robertovenom.github.io/React_Portfolio/src/assest/IMG_0651.jpeg',
+      image: '/asset/IMG_0651.JPEG',
     },
     {
       name: 'Project 2',
