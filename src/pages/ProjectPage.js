@@ -7,7 +7,7 @@ const ProjectsPage = () => {
     {
       name: 'Self Portrait',
       description: 'A web app built with React.',
-      link: 'https://robertovenom.github.io/React_Portfolio/src/assest/IMG_0651.jpeg',
+      link: 'https://robertovenom.github.io/React_Portfolio/src/assest/IMG_0651.JPEG',
       image: '/asset/IMG_0651.JPEG',
     },
     {
