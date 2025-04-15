@@ -6,20 +6,20 @@ const ProjectsPage = () => {
   const projects = [
     {
       name: 'Self Portrait',
-      description: 'A web app built with React.',
+      description: 'A self portrait of me based on Picasso.',
       link: 'https://robertovenom.github.io/React_Portfolio/src/assest/IMG_0651.JPEG',
       image: '/asset/IMG_0651.JPEG',
     },
     {
-      name: 'Project 2',
-      description: 'A full-stack app built with Node.js and MongoDB.',
-      link: 'https://github.com/user/project2',
-      image: '/images/project2.jpg',
+      name: 'Mini Game',
+      description: 'This Mini Game is made from Unity.',
+      link: 'https://www.youtube.com/watch?v=w_ONHQGsShA',
+      image: '/assest/Large Room.PNG',
     },
     {
       name: 'Project 3',
       description: 'A mobile app built with React Native.',
-      link: 'https://github.com/user/project3',
+      link: 'https://gitproject3hub.com/user/',
       image: '/images/project3.jpg',
     },
   ];
