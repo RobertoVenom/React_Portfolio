@@ -17,10 +17,10 @@ const ProjectsPage = () => {
       image: '/assest/Large Room.PNG',
     },
     {
-      name: 'Project 3',
-      description: 'A mobile app built with React Native.',
-      link: 'https://gitproject3hub.com/user/',
-      image: '/images/project3.jpg',
+      name: '3-D Model',
+      description: 'This is the 3d Model during the first time at UCF.',
+      link: 'https://robertovenom.github.io/React_Portfolio/src/assest/IMG_0365.JPEG',
+      image: '/assest/IMG_0365.JPEG',
     },
   ];
 
