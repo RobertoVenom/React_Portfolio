@@ -11,6 +11,7 @@ const AboutPage = () => {
         <li>HTML & CSS</li>
         <li>Photoshop</li>
         <li>Indesign</li>
+        <li>Premiere</li>
         <li>Javascript</li>
         <li>PHP & MySQL</li>
       </ul>
