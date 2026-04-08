@@ -18,6 +18,6 @@ A personal portfolio built with React to showcase my projects and skills.
 - Framer Motion
 
 ## Setup
-npm install
-npm run dev
+- npm install
+- npm run dev
 
