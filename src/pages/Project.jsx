@@ -8,7 +8,7 @@ function Projects() {
       <ProjectCard 
         title="Portfolio Website"
         description="My personal portfolio built with React."
-        link="#"
+        link="https://robertovenom.github.io/Coding-Portfolio/revise.html"
       />
 
       <ProjectCard 
