@@ -14,13 +14,31 @@ function Projects() {
       <ProjectCard 
         title="To-Do App"
         description="Task manager with local storage."
-        link="#"
+        link="https://www.figma.com/design/bZ6CluLPMA7m5SfjSo1nc7/TODO?m=auto&t=cdwOJkSX6k2djc5e-6"
       />
 
       <ProjectCard 
         title="Figma App"
         description="Uses API to fetch weather data."
-        link="#"
+        link="https://www.figma.com/design/MtOGnY2nXMbjyZpKmJ6iTt/Redesign-MCD-Mobile?m=auto&t=cdwOJkSX6k2djc5e-6"
+      />
+
+      <ProjectCard
+        title="FPS Microgame Walkthough"
+        description="This is my walkthough of my own minigame design."
+        link="https://www.youtube.com/playlist?list=PLRebXhcu94nFzR2b1aEi5eNppg9XE6MFh"
+      />
+      
+      <ProjectCard
+        title="Self Portait"
+        despcription=""
+        link=""
+      />
+
+      <ProjectCard
+        title="3D House"
+        description=""
+        link""
       />
     </section>
   );
