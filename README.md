@@ -17,7 +17,8 @@ A personal portfolio built with React to showcase my projects and skills.
 - CSS / Tailwind
 - Framer Motion
 
-## Setup
-- npm install
-- npm run dev
-
+## Setup Instructions
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
+4. Open http://localhost:3000
