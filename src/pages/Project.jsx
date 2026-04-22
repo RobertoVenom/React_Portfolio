@@ -31,14 +31,26 @@ function Projects() {
       
       <ProjectCard
         title="Self Portait"
-        despcription=""
-        link=""
+        despcription="This artwork is inprised by Picassco."
+        link="https://robertovenom.github.io/React_Portfolio/src/assets/images/self-protrait.JPEG"
+      />
+
+      <ProjectCard
+        title="Self Portait-Stan Lee"
+        despcription="The Portrait of all characters created by the legendary Marvel Creator."
+        link="https://robertovenom.github.io/React_Portfolio/src/assets/images/self-protrait.JPEG"
       />
 
       <ProjectCard
         title="3D House"
-        description=""
-        link""
+        description="Made from Cardboard to reprenst the shapes of 3-Dimesional."
+        link="https://robertovenom.github.io/React_Portfolio/src/assets/images/IMG_0431.JPEG"
+      />
+
+      <ProjectCard
+        title="First Characther: Basher"
+        despcription="This characther was created in Seminole State for my first Characther creation."
+        link="https://robertovenom.github.io/React_Portfolio/src/assets/images/Basher.jpg"
       />
     </section>
   );
